@@ -86,3 +86,10 @@ h6 { /* day and time */
   font-size: 45px;
   margin-right: 1050px;
 }
+
+.footnote {
+  font-size: 12px;
+  margin-left: 60px;
+  margin-top: 10px;
+  text-decoration: none;
+}
